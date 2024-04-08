@@ -16,11 +16,16 @@ Innovative Frontend Engineer with over 2 years of experience specializing in Rea
 **Frontend Developer**  
 _Dec. 2022 – Present_
 
-- Optimized website performance, achieving a 20% increase in speed and efficiency.
+- Pioneered the adoption of Vite as a build tool, significantly speeding up development time and enhancing the developer experience.
+- Optimized website performance, achieving at least 20% increase in speed and efficiency.
 - Collaborated on large-scale web applications in the FinTech and HR sectors, enhancing modularity and maintainability.
 - Established standardized front-end project structures to facilitate cross-team collaboration and integration.
 - Provided mentorship to junior developers, promoting a culture of knowledge-sharing and continuous learning.
+- Serve as a mentor for new team members, providing guidance on best practices, coding standards, and professional development.
 - Advocated for coding best practices, leading to a significant reduction in bugs and improved code quality.
+- Conduct thorough code reviews and provide constructive feedback to ensure high-quality contributions and continuous improvement.
+- Played a key role in establishing frontend best practices, ensuring high-quality code standards and performance across all projects.
+- Collaborating cross-functionally with designers, backend developers, and product managers to deliver high-quality software solutions.
 - **Notable Projects:**
   - **Asas**: Overhauled an HR platform, improving usability and integrating advanced functionalities.
   - **Xpence**: Played a pivotal role in developing a FinTech platform for streamlined expense management.
@@ -75,38 +80,39 @@ With your education and certifications listed, your CV will present a well-round
 
 ## Technical Skills
 
-### Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+### Project Management & Collaboration Tools
+- **Agile Methodologies:** Proficient in Agile practices, facilitating sprint planning, daily stand-ups, and retrospectives.
+- **Jira:** Extensive experience in using Jira for project tracking, issue tracking, and agile project management.
+- **Trello:** Skilled in using Trello for organizing tasks and collaborating with team members (in a previous role).
 
-### Frameworks & Libraries
-- React
-- Bootstrap
-- Tailwind CSS
-- Material-UI
-- Sass
+### Proficient Languages
+- **JavaScript (ES6+):** Advanced knowledge in modern JavaScript features and best practices.
+- **TypeScript:** Proficient in strong typing to enhance code reliability and maintainability.
+- **HTML5 & CSS3:** Expert in semantic markup and modern layout techniques, including Flexbox and Grid.
+
+### Frontend Frameworks & Libraries
+- **React:** Extensive experience in building scalable and performant user interfaces.
+- **Bootstrap, Tailwind CSS, Material-UI:** Skilled in utilizing CSS frameworks for rapid UI development.
+- **Sass:** Expert in using preprocessor scripting language to write more maintainable CSS.
 
 ### State Management & Data Fetching
-- Redux Toolkit
-- React Query
-- SWR (Stale-While-Revalidate)
+- **Redux Toolkit:** Proficient in managing global state with Redux and RTK for complex applications.
+- **React Query & SWR:** Specialized in efficient data fetching, caching, and state synchronization.
 
 ### Testing & Quality Assurance
-- Unit Testing with Jest and Vitest
-- ESLint (Code Linting)
-- Prettier (Code Formatting)
+- **Unit Testing with Jest and Vitest:** Solid experience in writing unit tests to ensure code reliability.
+- **ESLint & Prettier:** Implementing code linting and formatting for code quality and consistency.
 
-### Tools & Environments
-- Webpack
-- Vite
-- Git (Version Control)
-- Linux (Operating System)
+### Build Tools & Version Control
+- **Webpack & Vite:** Knowledgeable in module bundling and modern build tools for optimized build processes.
+- **Git:** Proficient in version control, including branching, merging, and collaboration workflows.
+
+### Performance Optimization
+- **Build Tools:** Improved code compilation speed by transitioning from Webpack to Vite, resulting in a more efficient development environment.
+- **Code Splitting:** Implemented code splitting techniques to reduce initial load time and optimize resource loading for web applications.
+- **React Best Practices:** Adhered to React development recommendations, including proper use of hooks, component optimization, and state management to enhance performance.
 
 ### Additional Skills
-- Responsive Design
-- JSON Web Token (JWT) for secure authentication
-- RESTful API communication
-- Gulp (Task Runner)
-- Express (Web Application Framework)
+- **Responsive Design:** Expertise in creating web applications that function seamlessly across devices.
+- **JWT & RESTful API:** Experience with secure authentication and efficient client-server communication.
+- **Gulp & Express:** Familiarity with task runners and backend frameworks to support full-stack development.
