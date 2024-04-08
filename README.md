@@ -10,11 +10,12 @@ Portfolio: [mohammedkhallaf.dev](https://mohammedkhallaf.dev)
 
 Innovative Frontend Engineer with over 2 years of experience specializing in React-based development. Known for exceptional skills in refactoring and architecting scalable project structures. Adept at creating comprehensive guidelines for frontend teams, encompassing technology selection, file and folder naming conventions, and version control best practices. Proven track record of driving team productivity and standardization through clear, actionable protocols.
 
-## :bar_chart: Work Experience
+## :bar_chart: Work Experience 
 
-### Spiritude Ltd. - Smouha, Alexandria
+### Spiritude Ltd. - Smouha, Alexandria ![Frontend Icon](https://img.shields.io/badge/-React-lightgrey)  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)  ![FinTech](https://img.shields.io/badge/-FinTech-black?style=flat&logo=financial-times)
+
 **Frontend Developer**  
-_Dec. 2022 – Present_
+_Dec. 2022 – Present_ 
 
 - Pioneered the adoption of Vite as a build tool, significantly speeding up development time and enhancing the developer experience.
 - Optimized website performance, achieving at least 20% increase in speed and efficiency.
@@ -26,11 +27,11 @@ _Dec. 2022 – Present_
 - Conduct thorough code reviews and provide constructive feedback to ensure high-quality contributions and continuous improvement.
 - Played a key role in establishing frontend best practices, ensuring high-quality code standards and performance across all projects.
 - Collaborating cross-functionally with designers, backend developers, and product managers to deliver high-quality software solutions.
-- **Notable Projects:**
-  - **Asas**: Overhauled an HR platform, improving usability and integrating advanced functionalities.
-  - **Xpence**: Played a pivotal role in developing a FinTech platform for streamlined expense management.
-  - **Fundr**: Actively developing a platform to simplify the investment process for startups and investors.
-  - **Petsy**: Working on a veterinary clinic management system to enhance pet care services.
+## Notable Projects 
+- **Asas**: Overhauled an HR platform, improving usability and integrating advanced functionalities.
+- **Xpence**: Played a pivotal role in developing a FinTech platform for streamlined expense management.
+- **Fundr**: Actively developing a platform to simplify the investment process for startups and investors.
+- **Petsy**: Working on a veterinary clinic management system to enhance pet care services.
 
 ### Sphinx Publishing Company - Bab Sharqi, Alexandria
 **Frontend Developer**  
