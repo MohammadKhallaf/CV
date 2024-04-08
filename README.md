@@ -27,11 +27,12 @@ _Dec. 2022 – Present_
 - Conduct thorough code reviews and provide constructive feedback to ensure high-quality contributions and continuous improvement.
 - Played a key role in establishing frontend best practices, ensuring high-quality code standards and performance across all projects.
 - Collaborating cross-functionally with designers, backend developers, and product managers to deliver high-quality software solutions.
-## Notable Projects 
-- **Asas**: Overhauled an HR platform, improving usability and integrating advanced functionalities.
-- **Xpence**: Played a pivotal role in developing a FinTech platform for streamlined expense management.
-- **Fundr**: Actively developing a platform to simplify the investment process for startups and investors.
-- **Petsy**: Working on a veterinary clinic management system to enhance pet care services.
+#### Notable Projects 
+- **Asas**: Overhauled an HR platform, improving usability and integrating advanced functionalities. ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+- **Xpence**: Played a pivotal role in developing a FinTech platform for streamlined expense management. ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+- **Fundr**: Actively developing a platform to simplify the investment process for startups and investors. ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+- **Petsy**: Working on a veterinary clinic management system to enhance pet care services. ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
 
 ### Sphinx Publishing Company - Bab Sharqi, Alexandria
 **Frontend Developer**  
