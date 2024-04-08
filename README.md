@@ -6,11 +6,11 @@ Email: [mohammed.khallaf@example.com](mailto:mohammed.khallaf@example.com)
 LinkedIn: [linkedin.com/in/mohammedkhallaf](https://www.linkedin.com/in/mohammedkhallaf)  
 Portfolio: [mohammedkhallaf.dev](https://mohammedkhallaf.dev)
 
-## Professional Summary
+## :briefcase: Professional Summary
 
 Innovative Frontend Engineer with over 2 years of experience specializing in React-based development. Known for exceptional skills in refactoring and architecting scalable project structures. Adept at creating comprehensive guidelines for frontend teams, encompassing technology selection, file and folder naming conventions, and version control best practices. Proven track record of driving team productivity and standardization through clear, actionable protocols.
 
-## Work Experience
+## :bar_chart: Work Experience
 
 ### Spiritude Ltd. - Smouha, Alexandria
 **Frontend Developer**  
@@ -78,19 +78,19 @@ Each of these credentials indicates a level of proficiency and dedication to mas
 
 With your education and certifications listed, your CV will present a well-rounded picture of your technical expertise and your proactive approach to professional development.
 
-## Technical Skills
+## :hammer_and_wrench: Technical Skills
 
-### Project Management & Collaboration Tools
+### :globe_with_meridians: Project Management & Collaboration Tools
 - **Agile Methodologies:** Proficient in Agile practices, facilitating sprint planning, daily stand-ups, and retrospectives.
 - **Jira:** Extensive experience in using Jira for project tracking, issue tracking, and agile project management.
 - **Trello:** Skilled in using Trello for organizing tasks and collaborating with team members (in a previous role).
 
-### Proficient Languages
+### :computer: Proficient Languages
 - **JavaScript (ES6+):** Advanced knowledge in modern JavaScript features and best practices.
 - **TypeScript:** Proficient in strong typing to enhance code reliability and maintainability.
 - **HTML5 & CSS3:** Expert in semantic markup and modern layout techniques, including Flexbox and Grid.
 
-### Frontend Frameworks & Libraries
+### :art: Frontend Frameworks & Libraries
 - **React:** Extensive experience in building scalable and performant user interfaces.
 - **Bootstrap, Tailwind CSS, Material-UI:** Skilled in utilizing CSS frameworks for rapid UI development.
 - **Sass:** Expert in using preprocessor scripting language to write more maintainable CSS.
