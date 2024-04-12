@@ -2,7 +2,7 @@
 
 Frontend Engineer  
 Alexandria, EG  
-Email: [mohammed.khallaf@example.com](mailto:mohammed.khallaf@example.com)  
+Email: [mohammedkhallaf.dev@gmail.com](mailto:mohammedkhallaf.dev@gmail.com)  
 LinkedIn: [linkedin.com/in/mohammedkhallaf](https://www.linkedin.com/in/mohammedkhallaf)  
 Portfolio: [mohammedkhallaf.dev](https://mohammedkhallaf.dev)
 
